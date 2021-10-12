@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/DoctorWilliamTroll/Robofriends.git/static/css/main.d2c8df2b.chunk.css",
+    "main.js": "/DoctorWilliamTroll/Robofriends.git/static/js/main.e49deb9f.chunk.js",
+    "main.js.map": "/DoctorWilliamTroll/Robofriends.git/static/js/main.e49deb9f.chunk.js.map",
+    "runtime-main.js": "/DoctorWilliamTroll/Robofriends.git/static/js/runtime-main.045e6f62.js",
+    "runtime-main.js.map": "/DoctorWilliamTroll/Robofriends.git/static/js/runtime-main.045e6f62.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/DoctorWilliamTroll/Robofriends.git/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.cb00c1aa.chunk.js": "/DoctorWilliamTroll/Robofriends.git/static/js/2.cb00c1aa.chunk.js",
+    "static/js/2.cb00c1aa.chunk.js.map": "/DoctorWilliamTroll/Robofriends.git/static/js/2.cb00c1aa.chunk.js.map",
+    "static/js/3.307dfa4e.chunk.js": "/DoctorWilliamTroll/Robofriends.git/static/js/3.307dfa4e.chunk.js",
+    "static/js/3.307dfa4e.chunk.js.map": "/DoctorWilliamTroll/Robofriends.git/static/js/3.307dfa4e.chunk.js.map",
+    "index.html": "/DoctorWilliamTroll/Robofriends.git/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/DoctorWilliamTroll/Robofriends.git/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.d2c8df2b.chunk.css.map": "/DoctorWilliamTroll/Robofriends.git/static/css/main.d2c8df2b.chunk.css.map",
+    "static/js/2.cb00c1aa.chunk.js.LICENSE.txt": "/DoctorWilliamTroll/Robofriends.git/static/js/2.cb00c1aa.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/DoctorWilliamTroll/Robofriends.git/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.045e6f62.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.cb00c1aa.chunk.js",
+    "static/css/main.d2c8df2b.chunk.css",
+    "static/js/main.e49deb9f.chunk.js"
+  ]
+}
